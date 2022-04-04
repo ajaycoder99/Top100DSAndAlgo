@@ -1,4 +1,4 @@
-package topic1.queue;
+package topic2.queue;
 
 public class Q5QueueUsingArray {
 
